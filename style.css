@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font: 16px;
+    font-family: 'Courier New', monospace;
+    color: #4c5454;
+}
+h1{
+    font: 22px;
+    margin-left: 20px;
+}
+h2{
+    font: 20px;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+}
+img{
+    float: right;
+    width: 400px;
+}
+ul{
+    margin-left: 100px;
+}
+ol{
+    margin-left: 100px;
+}
